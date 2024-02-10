@@ -7,4 +7,3 @@
       https://murdocs.com
     - **Relative URL is a specfic part of a link**
       https://murdochs.com/products/equine/horse-care/feed
-
