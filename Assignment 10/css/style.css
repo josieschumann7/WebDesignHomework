@@ -1,8 +1,8 @@
-  body{
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucidia Grande', 'Lucida Sans', Arial, sans-serif;
-  }
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucidia Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-  .main-container {
+.main-container {
 
     /* Draw a solid border make it gray */
     border-style: solid;
@@ -14,27 +14,27 @@
     background : sagegreen;
     width: 75%;
     margin: auto;
-  }
+}
 
-  div.align{
-      text-align: center;
-  }
+div.align{
+    text-align: center;
+}
 
-  .secondary-container{
+.secondary-container{
 
-      margin: auto;
-      width:50%;
-      padding: 50px;
-      border-bottom: 1px black solid;
-      border-spacing: inherit;
-  }
+    margin: auto;
+    width:50%;
+    padding: 50px;
+    border-bottom: 1px black solid;
+    border-spacing: inherit;
+}
 
-  #mainheader{
+#mainheader{
       position: relative;
       left: 20px;
       top:5px;
       color: forestgreen;
       opacity: .75;
       font-size: 60px;
-  }
+}
     
