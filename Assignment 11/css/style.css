@@ -1,1 +1,28 @@
+div{
+    text-align: center;
+    font-family: palatino;
+    font-style: normal;
+    margin: 10px;
+}
+
+.title{
+    font-family: RobotoMono-Regular.ttf;
+    font-size: 70px;
+    color: purple;
+    background-color: tan;
+    height: 100px;
+    text-align: center;
+}
+
+#sportmirror{
+    font-family: RobotoMono;
+    font-weight: 800;
+}
+
+#sport:hover:after {
+
+    content: "The highest earning barrel horse, DM Sissy Hayday, has a life time earning set at 2,213,578 dollars.";
+    font-weight: 500;
+    color: black;
+    font-style: bold;
 
