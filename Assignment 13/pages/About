@@ -23,3 +23,22 @@
             <a href="services.html">Services</a>
             <div class="dropdown-content">
                 <div class="dropdown-item">
+                    <a href="#" target="_new">Service 1</a>
+                </div>
+                <div class="dropdown-item">
+                    <a href="#" target="_new">Service 2</a>
+                </div>
+                <div class="dropdown-item">
+                    <a href="#" target="_new">Service 3</a>
+                </div>
+            </div>
+        </div>
+        <div class="site-name">
+
+        </div>
+    </header>
+    <h1>About Us</h1>
+    <h3>&nbsp;</h3>
+    <h5>&nbsp;</h5>
+   
+    <section>
