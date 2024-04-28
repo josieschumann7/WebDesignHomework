@@ -106,39 +106,23 @@ header {
 
 .mainimage{
     float: center;
-    content:url(gut-x-1.webp);
+    content:url("../images/gut-x-1.webp");
 
 }
 
 .secondimage{
     float:center;
-    content:url(gutx.jpeg);
+    content:url("../images/gutx.jpeg");
 }
 
 .thirdimage{
     margin: auto;
-    content:url("../images/road3-small.jpg");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .thirdimage{
-        margin: auto;
-        content:url("../images/road3.jpg");
-    }
+    content:url("../images/before:after.webp");
 }
 
 .fourthimage{
     margin:auto;
-    content:url("../images/road4-small.jpg");
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .fourthimage{
-        margin: auto;
-        content:url("../images/road4.jpg");
-    }
+    content:url("../images/");
 }
 
 .fifthimage{
@@ -146,12 +130,6 @@ header {
     content:url("../images/road2-small.jpg");
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .fifthimage{
-        margin: auto;
-        content:url("../images/road2.jpg");
-    }
 }
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
