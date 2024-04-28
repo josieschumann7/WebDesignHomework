@@ -111,16 +111,8 @@ header {
 }
 
 .secondimage{
-    float:right;
-    content:url();
-}
-
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
-    .secondimage{
-        float:right;
-        content:url("../images/road2.jpg");
-    }
+    float:center;
+    content:url(gutx.jpeg);
 }
 
 .thirdimage{
